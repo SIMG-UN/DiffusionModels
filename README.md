@@ -13,7 +13,7 @@ Para abordar los modelos de difusión de manera progresiva, seguiremos el siguie
    - [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://paperswithcode.com/method/u-net)
 
 3. **Modelos de Difusión**: Finalmente, profundizaremos en los modelos de difusión a través de una introducción amigable al tema:
-   - [An Intuitive Introduction to Diffusion Models](https://arxiv.org/pdf/2406.08929)
+   - [Step-by-Step Diffusion: An Elementary Tutorial](https://arxiv.org/pdf/2406.08929)
 
 ## Objetivos del Repositorio
 
