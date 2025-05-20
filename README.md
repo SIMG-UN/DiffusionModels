@@ -2,7 +2,7 @@
 
 Este repositorio tiene como objetivo construir una base sólida para entender los modelos de difusión, desde conceptos fundamentales hasta implementaciones prácticas. A lo largo del proyecto, exploraremos papers clave, implementaremos experimentos y desarrollaremos código relacionado.
 
-## Estructura de Aprendizaje
+## Estructura del repositorio 
 
 Para abordar los modelos de difusión de manera progresiva, seguiremos el siguiente plan de estudio:
 
@@ -32,6 +32,12 @@ Si deseas contribuir con este proyecto, puedes hacerlo de las siguientes maneras
 ## Contacto
 
 Si tienes preguntas o sugerencias, siéntete libre de abrir un issue o enviar un pull request.
+
+---
+## Bibliografía extra
+
+- [Deep Generative Modeling](https://link.springer.com/book/10.1007/978-3-030-93158-2) - Un libro comprehensivo que cubre los fundamentos del modelado generativo, incluyendo VAEs, GANs, Flujos Normalizadores y Modelos de Difusión. Ofrece una base teórica sólida y ejemplos prácticos. Particularmente es valioso revisar el capitulo 1,3, 4 y 6 que cubren varios de los conceptos fundamentales para los modelos de difusión.
+
 
 ---
 © 2024 - Proyecto de Modelos de Difusión
